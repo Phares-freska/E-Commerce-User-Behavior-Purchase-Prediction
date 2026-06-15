@@ -1,0 +1,15 @@
+column_name ,Explanation
+user_id,Unique user identifier
+age,Age of user
+gender,Male/Female
+device_type,Mobile/Desktop/Tablet
+time_on_site,Time spent on site (minutes)
+pages_viewed,Number of pages viewed
+previous_purchases,Historical purchases
+cart_items,Items added to cart
+discount_seen,Whether discount was shown
+ad_clicked,Whether ad was clicked
+returning_user,Whether user is returning
+avg_session_time,Average session duration
+bounce_rate,Percentage of bounce
+purchase,the target which is binary
